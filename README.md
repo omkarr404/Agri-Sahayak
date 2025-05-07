@@ -6,7 +6,6 @@ Agri Sahayak is an agricultural assistant platform aimed at supporting farmers w
 
 ## 🚀 Features
 
-- 🌱 **Crop Suggestion System** – Based on soil type, weather, and region
 - 🌦️ **Live Weather Forecasts** – Helps farmers plan sowing and harvesting
 - 📢 **Government Schemes Updates** – Latest agricultural subsidies and policies
 - 📊 **Market Price Tracker** – Real-time Mandi rates for various crops
